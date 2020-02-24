@@ -8,8 +8,6 @@ This is a project that aims to provide a way to track books in a library (what i
 - Make sure you have composer and run `composer install`;
 - Make sure you have the latest version of `npm` and run `npm install` and `npm run dev` after that to compile the project frontend;
 - Run the project by typing `php artisan serve`. This will start the development server on port 8000 by default;
-- 
-- 
 
 
 
